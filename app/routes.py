@@ -7,7 +7,7 @@ def index():
     return '''
     <html>
     <head>
-      <title>HOME PAGE - MICROBLOG</title>
+      <title>HOME PAGE - MICROBLOGger</title>
         </head>
         <body bgcolor = 'blue'>
         <h1>Hello, ''' + user['username'] + '''</h1>
